@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Graduation-Project/static/css/main.30a10c59.css",
+    "main.js": "/Graduation-Project/static/js/main.388a829f.js",
+    "static/js/453.0e2f8ae2.chunk.js": "/Graduation-Project/static/js/453.0e2f8ae2.chunk.js",
+    "static/media/jpeg": "/Graduation-Project/static/media/a1c7dc5b68a42239311e510f54d8cd59.c90deadab061b8bfcdc5.jpeg",
+    "static/media/fa-solid-900.ttf": "/Graduation-Project/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/png": "/Graduation-Project/static/media/2977438364a41d7e8c9d1e9a794d43ed.c9b630e33d000901c7c5.png",
+    "static/media/fa-brands-400.ttf": "/Graduation-Project/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Graduation-Project/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Graduation-Project/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/WhatsApp Image 2024-04-26 at 5.02.12 PM.jpeg": "/Graduation-Project/static/media/WhatsApp Image 2024-04-26 at 5.02.12 PM.5f38bb1863829a518b14.jpeg",
+    "static/media/WhatsApp Image 2024-04-26 at 5.02.47 PM.jpeg": "/Graduation-Project/static/media/WhatsApp Image 2024-04-26 at 5.02.47 PM.b333af9c7d8395555d6d.jpeg",
+    "static/media/fa-regular-400.ttf": "/Graduation-Project/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/WhatsApp Image 2024-04-26 at 5.02.36 PM.jpeg": "/Graduation-Project/static/media/WhatsApp Image 2024-04-26 at 5.02.36 PM.76657925cad455f9dcf9.jpeg",
+    "static/media/WhatsApp Image 2024-04-26 at 5.03.00 PM.jpeg": "/Graduation-Project/static/media/WhatsApp Image 2024-04-26 at 5.03.00 PM.2f6161b4aec70bbb676e.jpeg",
+    "static/media/WhatsApp Image 2024-04-26 at 5.03.06 PM.jpeg": "/Graduation-Project/static/media/WhatsApp Image 2024-04-26 at 5.03.06 PM.083075a4f958c96fc75d.jpeg",
+    "static/media/fa-regular-400.woff2": "/Graduation-Project/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/revicons.eot": "/Graduation-Project/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Graduation-Project/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "/Graduation-Project/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/revicons.woff": "/Graduation-Project/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/Graduation-Project/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/Graduation-Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Graduation-Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Graduation-Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Graduation-Project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Graduation-Project/index.html",
+    "main.30a10c59.css.map": "/Graduation-Project/static/css/main.30a10c59.css.map",
+    "main.388a829f.js.map": "/Graduation-Project/static/js/main.388a829f.js.map",
+    "453.0e2f8ae2.chunk.js.map": "/Graduation-Project/static/js/453.0e2f8ae2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a10c59.css",
+    "static/js/main.388a829f.js"
+  ]
+}
